@@ -1,0 +1,21 @@
+[en]
+Cstrike_Camera_Menu = \ySelect your camera^n^n\wDistance: \r%.1f
+Cstrike_Camera_ThirdPerson = Third person \d(Default)
+Cstrike_Camera_UpLeft = Third person \d(Resident Evil style)
+Cstrike_Camera_TopDown = Third person \d(Top down)
+Cstrike_Camera_Facing = Third person \d(Facing)
+Cstrike_Camera_None = First person
+Cstrike_Camera_ZoomOut = Zoom out
+Cstrike_Camera_ZoomIn = Zoom in
+Cstrike_Camera_MenuExit = Exit
+
+[bp]
+Cstrike_Camera_Menu = \ySelecione sua camera^n^n\wDistância: \r%.1f
+Cstrike_Camera_ThirdPerson = Terceira pessoa \d(Padrão)
+Cstrike_Camera_UpLeft = Terceira pessoa \d(Estilo Resident Evil)
+Cstrike_Camera_TopDown = Terceira pessoa \d(De cima para baixo)
+Cstrike_Camera_Facing = Terceira pessoa \d(De frente para trás)
+Cstrike_Camera_None = Primeira pessoa
+Cstrike_Camera_ZoomOut = Aumentar zoom
+Cstrike_Camera_ZoomIn = Diminuir zoom
+Cstrike_Camera_MenuExit = Sair
